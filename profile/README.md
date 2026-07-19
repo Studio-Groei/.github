@@ -1,15 +1,31 @@
-# Studio Groei
+<div align="center">
 
-**AI-first venture studio uit Amsterdam.** Wij investeren bouwtijd — design én
-development — naast founders. Van idee naar een schaalbaar product in 4–8 weken.
+<a href="https://groei.studio">
+  <img src="assets/banner.png" alt="Studio Groei — AI-first venture studio from Amsterdam" width="100%">
+</a>
 
-→ **[groei.studio](https://groei.studio)**
+<br><br>
 
-- 🌐 Website — https://groei.studio
-- 💬 Project bespreken — https://groei.studio/afspraak
-- 📬 Contact — https://groei.studio/bericht
+**Studio Groei** is an AI-first venture studio from Amsterdam.<br>
+We invest build time — design **and** development — alongside founders.<br>
+From idea to a scalable product in **4–8 weeks**.
 
----
+<br>
 
-<sub>Studio Groei is de bouw-/venturetak — <a href="https://groei.studio">groei.studio</a>.
-GroeimetAI is de consultancytak.</sub>
+<a href="https://groei.studio/afspraak"><img src="assets/btn-book-a-call.png" alt="Book a call →" height="48"></a>
+&nbsp;
+<a href="https://groei.studio"><img src="assets/btn-website.png" alt="groei.studio ↗" height="48"></a>
+&nbsp;
+<a href="https://groei.studio/bericht"><img src="assets/btn-contact.png" alt="Get in touch →" height="48"></a>
+
+<br><br><br>
+
+<a href="https://groei.studio">
+  <img src="assets/footer.png" alt="groei.studio →" width="100%">
+</a>
+
+<br><br>
+
+<sub>Studio Groei is the build/venture arm — <a href="https://groei.studio">groei.studio</a>. GroeimetAI is the consultancy arm.</sub>
+
+</div>
