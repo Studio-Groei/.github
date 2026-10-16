@@ -52,8 +52,8 @@ We map how your team works and build the software, integrations and portals that
 
 ### The team
 
-[**Niels van der Werf**](https://groei.studio/en/team/niels-van-der-werf), co-founder & tech lead<br>
-[**Joey Giljam**](https://groei.studio/en/team/joey-giljam), co-founder & design lead
+[**Niels van der Werf**](https://groei.studio/en/team/niels-van-der-werf), co-founder & tech lead · [LinkedIn](https://www.linkedin.com/in/niels-van-der-werf-5421a5106/)<br>
+[**Joey Giljam**](https://groei.studio/en/team/joey-giljam), co-founder & design lead · [LinkedIn](https://www.linkedin.com/in/joey-giljam-bb432420b/)
 
 <br>
 
